@@ -1,5 +1,7 @@
 # vyperwire
-Anycubic Vyper to switchwire conversion
+Anycubic Vyper to switchwire conversion boubounokefalos
+
+This conversion is a modified version of DaRk_dOg's (boubounokefalos) Ender-Switchwire conversion.
 
 Initial upload of the FT Viperwire conversion. Since there is no CAD file for the Anycubic Vyper frame, we have created it from scratch as per inputs from Robert on Discord.
 
