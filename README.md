@@ -7,9 +7,9 @@ The following parts have been modified: -
 
 1. Side Extension Right (Front)
 2. Side Extension Right (Rear)
-Side Extension Left (Front)
-Side Extension Left (Rear)
-Rear Grill Middle
-Front Grill Middle
-Y idler Outter
-Y Motor Mount Bracket
+3. Side Extension Left (Front)
+4. Side Extension Left (Rear)
+5. Rear Grill Middle
+6. Front Grill Middle
+7. Y idler Outter
+8. Y Motor Mount Bracket
