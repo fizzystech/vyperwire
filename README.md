@@ -5,8 +5,8 @@ Initial upload of the FT Viperwire conversion. Since there is no CAD file for th
 
 The following parts have been modified: -
 
-Side Extension Right (Front)
-Side Extension Right (Rear)
+1. Side Extension Right (Front)
+2. Side Extension Right (Rear)
 Side Extension Left (Front)
 Side Extension Left (Rear)
 Rear Grill Middle
