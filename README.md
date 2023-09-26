@@ -13,5 +13,8 @@ The following parts have been modified: -
 4. Side Extension Left (Rear)
 5. Rear Grill Middle
 6. Front Grill Middle
-7. Y idler Outter
-8. Y Motor Mount Bracket
+7. Y idler Outter (Base)
+8. Y ideler Outter (Top)
+9. Y Motor Mount Bracket
+
+SLT's for the modified files have been uploaded for those that would like to test fit.
