@@ -1,5 +1,5 @@
-# vyperwire
-Anycubic Vyper to switchwire conversion boubounokefalos
+# FT Vyperwire
+Anycubic Vyper to Voron Switchwire conversion.
 
 This conversion is a modified version of DaRk_dOg's (boubounokefalos) Ender-Switchwire conversion.
 
