@@ -16,3 +16,5 @@ The following parts have been modified: -
 7. Y idler Outter (Base)
 8. Y ideler Outter (Top)
 9. Y Motor Mount Bracket
+
+SLT's for the modified files have been uploaded for those that would like to test fit.
