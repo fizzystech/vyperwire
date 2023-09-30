@@ -3,9 +3,9 @@ Anycubic Vyper to Voron Switchwire conversion.
 
 This conversion is a modified version of DaRk_dOg's (boubounokefalos) Ender-Switchwire conversion.
 
-![alt text](https://github.com/fizzystech/vyperwire/blob/main/images/Promo%20Pic%206.jpg)
-![alt text](https://github.com/fizzystech/vyperwire/blob/main/images/Promo%20Pic%207.jpg)
-![alt text](https://github.com/fizzystech/vyperwire/blob/main/images/Promo%20Pic%208.jpg)
+![alt text](https://github.com/fizzystech/vyperwire/blob/main/images/Promo%20Pic%209.jpg)
+![alt text](https://github.com/fizzystech/vyperwire/blob/main/images/Promo%20Pic%2010.jpg)
+![alt text](https://github.com/fizzystech/vyperwire/blob/main/images/Promo%20Pic%2011.jpg)
 
 Initial upload of the FT Viperwire conversion. Since there is no CAD file for the Anycubic Vyper frame, we have created it from scratch as per inputs from Robert on Discord.
 
